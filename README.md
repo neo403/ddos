@@ -1,2 +1,10 @@
-1. How to use Hammer [`Watch it`](http://www.youtube.com/watch?v=HVbRUhX2EPo) 
-2. Fork it...
+Install SC
+$ apt update && apt upgrade -y
+$ apt install git
+$ apt install python
+$ apt install python²
+$ git clone https://github.com/JaeXploit/ddos
+$ cd ddos
+$ python ddos.py
+Note: Jangan salah guna.
+(Thks for all-community)
